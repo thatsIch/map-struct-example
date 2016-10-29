@@ -1,0 +1,21 @@
+# exclude all
+/*
+
+# include important folders
+# need maven files
+!pom.xml
+
+# include markdowns
+!README.md
+!LICENSE
+!CONTRIBUTING.md
+
+# include sourcecode
+!src/
+
+# include git important files
+!.gitmodules
+!.gitignore
+
+# include EditorConfig support file
+!.editorconfig
